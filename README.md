@@ -1,2 +1,2 @@
 # F2A
-Repository with codes generated for the Fire2A group
+Repository with codes generated for the Fire2A group.
